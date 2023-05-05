@@ -8,6 +8,9 @@ and I thought it would be fun to say that you can talk to him right now, you jus
 
 and in general it is interesting to just chat with him))
 
+![image](https://user-images.githubusercontent.com/109607272/236424584-fd57aa9c-ce5c-4fd2-88eb-8ecdca4e4fb5.png)
+
+
 <br><br>
 ---------------------------------------------------------
 So, the work was divided into several stages: 
