@@ -19,3 +19,15 @@ So, the work was divided into several stages:
 <br><br>
 
 
+I used the sounddevice library to record sound. Recorded for 5 seconds, after which she sent the record for transcription of the whisper model.
+Whisper - a model based on the architecture of the transformer (I described how it works in past projects, you can find it). Use the large model for more accurate speech recognition.
+I send the decrypted text to api and voice the answer using the gtts library.
+
+Code:
+
+`record.py` - recording audio
+
+`transcriber.py` - transcibing
+
+`main.py` - starts the assistant
+
